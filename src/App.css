@@ -21,7 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #1E75B9;
 }
 
 .App-link {
@@ -35,4 +35,39 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.clock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+html,
+body {
+  height: 100dvh;
+  width: 100dvw;
+  background-color: #1E75B9;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  text-align: center;
+  text-align: center;
+  /* padding: 20px; */
+}
+
+.clock-container {
+  display: flex;
+  justify-content: center;
+  display: flex;
+  justify-content: center;
 }

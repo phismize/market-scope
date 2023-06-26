@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-marketscope-dev-111423-authRole",
+      "UnauthRoleArn": "arn:aws:iam::981377450937:role/amplify-marketscope-dev-111423-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::981377450937:role/amplify-marketscope-dev-111423-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-marketscope-dev-111423-deployment",
+      "UnauthRoleName": "amplify-marketscope-dev-111423-unauthRole",
+      "StackName": "amplify-marketscope-dev-111423",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:981377450937:stack/amplify-marketscope-dev-111423/2bb1b430-13c7-11ee-8b13-0a066a68c96f",
+      "AmplifyAppId": "d2mgse8zf7rwbc"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2mgse8zf7rwbc",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
