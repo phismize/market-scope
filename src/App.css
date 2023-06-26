@@ -21,7 +21,6 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: #1E75B9;
 }
 
 .App-link {
@@ -45,9 +44,17 @@
 
 html,
 body {
+  background-color: #1E75B9;
+}
+
+.App-header {
+  color: #1E75B9;
+}
+
+html,
+body {
   height: 100dvh;
   width: 100dvw;
-  background-color: #1E75B9;
   overflow: hidden;
 }
 
